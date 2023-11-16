@@ -3,17 +3,17 @@
 </br>
 </br>
 
-<div dsplay="inline-block">
+<div display="inline-block">
  
  <h1 align="left">Breno Van Dall</h1>
   <a href="#">
-    <img align="left" width="80px" src="instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="40px" src="instagram.png" alt="instagram" style="vertical-align:top;">
   </a>
   <a href="#">
-    <img align="left" width="80px" src="X.jpg" alt="x" style="vertical-align:top;">
+    <img align="left" width="40px" src="X.jpg" alt="x" style="vertical-align:top;">
   </a>
   <a href="#">
-    <img width="80px" src="linkedin.avif" alt="linkedin" style="vertical-align:top;">
+    <img width="40px" src="linkedin.avif" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
