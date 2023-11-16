@@ -30,7 +30,7 @@
 
 ## Hello, My New Friends!!
 
-First at all, I'm 17 years old and I'm a fullstack developer. At the moment, i live in Santa Catarina, Brazil. I love so much the feeling that i get when I'm programming!
+I'm Breno, I'm a 17 years old and I live in Santa Catarina, Brazil. I work as a Service Desk at TranspoTech Equipamentos, but I'm a development student constantly looking for updates in that area. I love programming and improve my backend and frontend skills!!
 
 <p align="center">
   <img src="memes-masterclass.gif" width="350">
