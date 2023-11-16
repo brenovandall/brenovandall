@@ -29,7 +29,7 @@
 First at all, I'm 17 years old and I'm a fullstack developer. At the moment, i live in Santa Catarina, Brazil. I love so much the feeling that i get when I'm programming!
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmemes-masterclass-gif-17148471452449582340&psig=AOvVaw29mvrEr0v68wmC6t0puW90&ust=1700225532575000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCWhO3HyIIDFQAAAAAdAAAAABAQ" width="350">
+  <img src="memes-masterclass.gif" width="350">
 </p>
 
 ### 🖥️ Languages and Tools: 
