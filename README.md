@@ -54,6 +54,7 @@ First at all, I'm 17 years old and I'm a fullstack developer. At the moment, i l
 <div display="inline-block">
  <p align="left">👩‍💻 I work at TranspoTech Equipamentos as a Service Desk;</p>
  <p align="left">👨‍🏫 ENTRA21 Student;</p>
+ <p align="left">☕ I love drinking coffee;</p>
 </div>
 
 
