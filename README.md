@@ -72,3 +72,5 @@ I'm Breno, I'm a 17 years old and I live in Santa Catarina, Brazil. I work as a 
 </p>
 </div>
 
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
