@@ -54,10 +54,13 @@ First at all, I'm 17 years old and I'm a fullstack developer. At the moment, i l
 
 
 ##
-<p align="center">
+<div display="flex" justify-content="center">
+ <p align="center">
 <a href="https://github.com/brenovandall">
   <a href="https://github.com/brenovandall">
-  <img loading="lazy" align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovandall&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenovandall&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brenovandall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+</div>
+
