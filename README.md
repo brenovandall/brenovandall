@@ -24,52 +24,41 @@
 </br>
 </br>
 
-## Hello, Devs!!
+## Hello, My new Friends!!
 
-Tenho 30 anos, moro em Juiz de Fora/MG e sou apaixonada por programação e felinos! Sou aventureira no universo da programação, criadora oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+First at all, I'm 17 years old and I'm a fullstack developer. At the moment, i live in Santa Catarina, Brazil. I love so much the feeling that i get when I'm programming!
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmemes-masterclass-gif-17148471452449582340&psig=AOvVaw29mvrEr0v68wmC6t0puW90&ust=1700225532575000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCWhO3HyIIDFQAAAAAdAAAAABAQ" width="350">
 </p>
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Languages and Tools: 
 <img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title = "NET"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title = "ASPNET"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title = "ORACLE"/></code>
 
 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Faço parte do Scuba Team da <a href="https://www.alura.com.br/">Alura</a>;</p>
- <p align="left">📚 Tenho estudado Java, Kotlin e iniciei meus estudos para desenvolver apps para Android;</p>
- <p align="left">📷 Compartilho minhas experiências com transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/jeniblo_dev">Instagram</a> e no <a href="https://dev.to/jeniblo_dev">Blog</a>. Segue lá e vem bater um papo!</p>
- <p align="left">☕🎮 só acordo com café, adoro games (mas sou muito ruim em todos) e faço piadas ruins com certa frequência.</p>
+ <p align="left">👩‍💻 I work at TranspoTech Equipamentos as a Service Desk;</p>
+ <p align="left">👨‍🏫 ENTRA21 Student;</p>
 </div>
 
 
-
-</br>
-
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/jeniblo_dev) ou pelo [Twitter](https://twitter.com/jeniblo_dev) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-
-</br>
-
-<a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/jeniblo_dev" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/jeniffer-bittencourt" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://dev.to/jeniblo_dev" target="_blank"><img alt="Blog" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
 ##
 <p align="center">
-<a href="https://github.com/jeniblodev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/brenovandall">
+  <a href="https://github.com/brenovandall">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?brenovandall&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brenovandall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </p>
