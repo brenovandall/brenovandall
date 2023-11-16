@@ -13,7 +13,7 @@
   <a href="#">
     <img margin-top="10px" align="left" width="40px" src="X.jpg" alt="x" style="vertical-align:top;">
   </a>
-  <a href="www.linkedin.com/in/breno-van-dall">
+  <a href="www.linkedin.com/in/breno-van-dall" target="_blank">
     <img margin-top="10px" width="40px" src="linkedin.avif" alt="linkedin" style="vertical-align:top;">
   </a>
  </div>
