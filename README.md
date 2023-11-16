@@ -53,8 +53,11 @@ I'm Breno, I'm a 17 years old and I live in Santa Catarina, Brazil. I work as a 
 </br>
 <div display="inline-block">
  <p align="left">👩‍💻 I work at TranspoTech Equipamentos as a Service Desk;</p>
- <p align="left">👨‍🏫 ENTRA21 Student;</p>
+ <p align="left">📚 Constantly learning and exploring new technologies;</p>
+ <p align="left">👨‍🏫 I'm ENTRA21 Student;</p>
+ <p align="left">🎮 Casual gamer, like to play Overwatch;</p>
  <p align="left">☕ I love drinking coffee;</p>
+ <p align="left">🌍 Passionate about animals (dogs and birds);</p>
 </div>
 
 
