@@ -3,7 +3,7 @@
 </br>
 </br>
 
-<div display="inline-block">
+<div display="inline-block" margin-top="10px">
  
  <h1 align="left">Breno Van Dall</h1>
   <a href="#">
@@ -12,7 +12,7 @@
   <a href="#">
     <img align="left" width="40px" src="X.jpg" alt="x" style="vertical-align:top;">
   </a>
-  <a href="#">
+  <a href="www.linkedin.com/in/breno-van-dall">
     <img width="40px" src="linkedin.avif" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
