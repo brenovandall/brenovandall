@@ -8,13 +8,13 @@
  <h1 align="left">Breno Van Dall</h1>
  <div mrgin-top="10px">
   <a href="#">
-    <img margin-top="10px" align="left" width="40px" src="instagram.png" alt="instagram" style="vertical-align:top;">
+    <img margin-top="10px" align="left" width="40px" src="instagram.png" alt="instagram" style="vertical-align:center;">
   </a>
   <a href="#">
-    <img margin-top="10px" align="left" width="40px" src="X.jpg" alt="x" style="vertical-align:top;">
+    <img margin-top="10px" align="left" width="40px" src="X.jpg" alt="x" style="vertical-align:center;">
   </a>
-  <a href="www.linkedin.com/in/breno-van-dall" target="_blank">
-    <img margin-top="10px" width="40px" src="linkedin.avif" alt="linkedin" style="vertical-align:top;">
+  <a href="https://www.linkedin.com/in/breno-van-dall" target="_blank">
+    <img margin-top="10px" width="40px" src="linkedin.avif" alt="linkedin" style="vertical-align:center;">
   </a>
  </div>
   
