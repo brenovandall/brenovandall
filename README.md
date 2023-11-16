@@ -7,13 +7,13 @@
  
  <h1 align="left">Breno Van Dall</h1>
   <a href="#">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="80px" src="instagram.png" alt="instagram" style="vertical-align:top;">
   </a>
   <a href="#">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="80px" src="X.jpg" alt="x" style="vertical-align:top;">
   </a>
   <a href="#">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="linkedin.avif" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
