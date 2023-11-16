@@ -24,7 +24,7 @@
 </br>
 </br>
 
-## Hello, My new Friends!!
+## Hello, My New Friends!!
 
 First at all, I'm 17 years old and I'm a fullstack developer. At the moment, i live in Santa Catarina, Brazil. I love so much the feeling that i get when I'm programming!
 
