@@ -14,7 +14,7 @@
     <img margin-top="10px" align="left" width="40px" src="X.jpg" alt="x" style="vertical-align:center;">
   </a>
   <a href="https://www.linkedin.com/in/breno-van-dall" target="_blank">
-    <img margin-top="10px" width="40px" src="image-removebg-preview (5).png" alt="linkedin" style="vertical-align:center;">
+    <img margin-top="10px" width="40px" src="linked.png" alt="linkedin" style="vertical-align:center;">
   </a>
  </div>
   
