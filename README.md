@@ -11,7 +11,7 @@
 
 ```javascript
 const breno = {
-  pronouns: "she" | "her",
+  hobby: "code and studying",
   workWith: [HTML, CSS, Bootstrap, Javascript, C#, SQL, MySQL, Oracle, SQL Server],
   tools: [.NET, ASP.NET, ASP.NET MVC, EF Core, Identity],
   Entra21: {
