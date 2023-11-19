@@ -22,6 +22,6 @@ const breno = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>You can talk to me on <a href="#">Instagram</a>, I love to meet other people!</em>
+<img src="mario_amigos.gif" width="60"> <em><b>You can talk to me on <a href="#">Instagram</a>, I love to meet other people!</em>
 
 ---
