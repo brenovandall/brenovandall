@@ -7,7 +7,7 @@
 [![Linkedin: brenovandall](https://img.shields.io/badge/-brenovandall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-van-dall/)](https://www.linkedin.com/in/breno-van-dall/)
 
 
-### <img src="#" width="50"> A little bit about myself...  
+### <img src="https://giphy.com/embed/grlUCZKfw4TK0" width="50"> A little bit about myself...  
 
 ```javascript
 const breno = {
