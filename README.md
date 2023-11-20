@@ -11,7 +11,7 @@
 
 ```javascript
 const breno = {
-  hobby: "code and studying",
+  hobby: "code and study",
   workWith: [HTML, CSS, Bootstrap, Javascript, C#, SQL, MySQL, Oracle, SQL Server],
   tools: [.NET, ASP.NET, ASP.NET MVC, EF Core, Identity],
   Entra21: {
