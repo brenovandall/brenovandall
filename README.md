@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Breno Van Dall!
+<h2> Hi, I'm Breno Van Dall! </h2>
 <p><em>Software Development Student at <a href="https://www.entra21.com.br/">ENTRA21</a></br>Service Desk at <a href="https://www.transpotech.com.br/">TranspoTech Equipamentos</a>
 </em></p>
 
