@@ -1,7 +1,6 @@
 
-<h2> Hi, I'm Breno Van Dall! <!-- <img src="" width="50"></h2> -->
-<!-- <img align='right' src="" width="230"> -->
-<p><em>Software Development Student at <a href="https://www.entra21.com.br/">ENTRA21</a><!-- <img src="" width="30"> --></br>Service Desk at <a href="https://www.transpotech.com.br/">TranspoTech Equipamentos</a><!-- <img src="" width="30"> -->
+<h2> Hi, I'm Breno Van Dall!
+<p><em>Software Development Student at <a href="https://www.entra21.com.br/">ENTRA21</a></br>Service Desk at <a href="https://www.transpotech.com.br/">TranspoTech Equipamentos</a>
 </em></p>
 
 [![Linkedin: brenovandall](https://img.shields.io/badge/-brenovandall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-van-dall/)](https://www.linkedin.com/in/breno-van-dall/)
@@ -22,6 +21,6 @@ const breno = {
 }
 ```
 
-<!-- <img src="" width="60" margin-bottom="-8px"> --> <em><b>You can talk to me on <a href="https://www.instagram.com/brenovandall/?next=%2F">Instagram</a>, I love to meet other people!</em>
+<em><b>You can talk to me on <a href="https://www.instagram.com/brenovandall/?next=%2F">Instagram</a>, I love to meet other people!</em>
 
 ---
