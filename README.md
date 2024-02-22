@@ -11,8 +11,8 @@
 ```javascript
 const breno = {
   hobby: "code and study",
-  workWith: [HTML, CSS, Bootstrap, Javascript, C#, SQL, MySQL, Oracle, SQL Server],
-  tools: [.NET, ASP.NET, ASP.NET MVC, EF Core, Identity],
+  workWith: [C#, Angular, SQL],
+  tools: [.NET, ASP.NET, EF Core, Identity, Angular, Typescript],
   Entra21: {
                institution: "Proway IT Training",
                language: "C#"
