@@ -1,7 +1,6 @@
 
 <h2> Hi, I'm Breno Van Dall! </h2>
-<p><em>Software Development Student at <a href="https://www.entra21.com.br/">ENTRA21</a></br>Service Desk at <a href="https://www.transpotech.com.br/">TranspoTech Equipamentos</a>
-</em></p>
+<p>Software Developer at <a href="https://www.transpotech.com.br/">TranspoTech Equipamentos</a></p>
 
 [![Linkedin: brenovandall](https://img.shields.io/badge/-brenovandall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-van-dall/)](https://www.linkedin.com/in/breno-van-dall/)
 
@@ -10,9 +9,9 @@
 
 ```javascript
 const breno = {
-  hobby: "code and study",
-  workWith: [C#, Angular, SQL],
-  tools: [.NET, ASP.NET, EF Core, Identity, Angular, Typescript],
+  hobby: "coding",
+  workWith: [C#, .NET, Angular, SQL],
+  tools: [.NET, ASP.NET, Angular, Typescript...],
   Entra21: {
                institution: "Proway IT Training",
                language: "C#"
