@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Breno Van Dall! </h2>
-<p>Software Developer at <a href="https://www.transpotech.com.br/">TranspoTech Equipamentos</a></p>
+<p>Software Developer at <a href="https://www.benner.com.br/">Benner Sistemas</a></p>
 
 [![Linkedin: brenovandall](https://img.shields.io/badge/-brenovandall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-van-dall/)](https://www.linkedin.com/in/breno-van-dall/)
 
@@ -11,7 +11,7 @@
 const breno = {
   hobby: "coding",
   workWith: [C#, .NET, Angular, SQL],
-  tools: [.NET, ASP.NET, Angular, Typescript...],
+  tools: [DDD, TDD, Clean Arch, CQRS, REPR, Microservices...],
   Entra21: {
                institution: "Proway IT Training",
                language: "C#"
