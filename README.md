@@ -6,4 +6,6 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brenovandall" alt="brenovandall" /></p>
+<div style="text-align:center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brenovandall" alt="brenovandall" /></p>
+</div>
