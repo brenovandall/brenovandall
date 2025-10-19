@@ -4,6 +4,6 @@
 
 ![C#](https://img.shields.io/badge/-Dotnet-512BD4?style=for-the-badge&logoColor=fff&logo=dotnet)&nbsp;
 
-<h1 align="center">Some stats</h1>
+<hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brenovandall" alt="brenovandall" /></p>
